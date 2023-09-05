@@ -9,5 +9,6 @@ ruedas.Add(new Rueda());
 ruedas.Add(new Rueda());
 ruedas.Add(new Rueda());
 ruedas.Add(new Rueda());
+
 var auto = new Auto("amarillo","123",Marcas.Ferrari,motor,ruedas);
 auto.Encender();

@@ -14,11 +14,17 @@ public enum Marcas
 
 namespace _2023
 {
-    public class Auto
+    public class Vehiculo
     {
-        private string color;
-        private string patente;
-        private Marcas marca;
+        protected string color;
+        protected string patente;
+        protected Marcas marca;
+
+    }
+
+
+    public class Auto : Vehiculo
+    {
         private Motor motor;
         private List<Rueda> ruedas;
 
