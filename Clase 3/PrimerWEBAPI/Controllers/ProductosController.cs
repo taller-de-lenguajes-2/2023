@@ -1,3 +1,4 @@
+using System.Reflection.Metadata.Ecma335;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PrimerWEBAPI.Controllers;
@@ -22,10 +23,15 @@ public class ProductosController : ControllerBase
         _logger = logger;
     }
 
-    [HttpGet(Name = "GetProductos")]
-    [Route("GetProductos")]
-    public IEnumerable<Producto> Get()
+    [HttpGet(Name = "GetProductos")] 
+    public ActionResult<IEnumerable<Producto>> GetAll()
     {
-        return productos.ToArray();
+        return Ok(productos);
+    }
+
+    [HttpGet("Producto/{id}")]   
+    public ActionResult<Producto> Get(int id)
+    {
+        return Ok(productos.First( a=> a.Id == id));
     }
 }
