@@ -50,7 +50,7 @@ public class ProductosController : ControllerBase
     }
 
     [HttpPost("Add")]   
-    public ActionResult<Producto> Add([FromBody] Producto producto)
+    public ActionResult<Producto> Add([FromForm]Producto producto)
     {
         if(producto==null) return NotFound();
         int nuevoId = productos.Max(producto => producto.Id) + 1;
