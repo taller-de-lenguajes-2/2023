@@ -49,5 +49,15 @@ public class ProductosController : ControllerBase
         return Ok(producto);
     }
 
+    [HttpPost("Add")]   
+    public ActionResult<Producto> Add([FromBody] Producto producto)
+    {
+        if(producto==null) return NotFound();
+        int nuevoId = productos.Max(producto => producto.Id) + 1;
+        producto.Id = nuevoId; 
+        productos.Add(producto);
+        return Ok(producto);
+    }
+
     
 }
