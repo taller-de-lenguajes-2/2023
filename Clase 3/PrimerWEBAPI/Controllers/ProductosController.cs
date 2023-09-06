@@ -32,6 +32,12 @@ public class ProductosController : ControllerBase
     [HttpGet("Producto/{id}")]   
     public ActionResult<Producto> Get(int id)
     {
-        return Ok(productos.First( a=> a.Id == id));
+        Producto producto = productos.FirstOrDefault( a=> a.Id == id);
+        
+        if(producto==null) return NotFound();
+        
+        return Ok();
     }
+
+    
 }
