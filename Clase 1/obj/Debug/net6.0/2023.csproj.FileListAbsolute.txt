@@ -1,15 +1,30 @@
-C:\RepoGit\Taller22023\2023\obj\Debug\net6.0\2023.csproj.AssemblyReference.cache
-C:\RepoGit\Taller22023\2023\obj\Debug\net6.0\2023.GeneratedMSBuildEditorConfig.editorconfig
-C:\RepoGit\Taller22023\2023\obj\Debug\net6.0\2023.AssemblyInfoInputs.cache
-C:\RepoGit\Taller22023\2023\obj\Debug\net6.0\2023.AssemblyInfo.cs
-C:\RepoGit\Taller22023\2023\obj\Debug\net6.0\2023.csproj.CoreCompileInputs.cache
-C:\RepoGit\Taller22023\2023\bin\Debug\net6.0\2023.exe
-C:\RepoGit\Taller22023\2023\bin\Debug\net6.0\2023.deps.json
-C:\RepoGit\Taller22023\2023\bin\Debug\net6.0\2023.runtimeconfig.json
-C:\RepoGit\Taller22023\2023\bin\Debug\net6.0\2023.dll
-C:\RepoGit\Taller22023\2023\bin\Debug\net6.0\2023.pdb
-C:\RepoGit\Taller22023\2023\obj\Debug\net6.0\2023.dll
-C:\RepoGit\Taller22023\2023\obj\Debug\net6.0\refint\2023.dll
-C:\RepoGit\Taller22023\2023\obj\Debug\net6.0\2023.pdb
-C:\RepoGit\Taller22023\2023\obj\Debug\net6.0\2023.genruntimeconfig.cache
-C:\RepoGit\Taller22023\2023\obj\Debug\net6.0\ref\2023.dll
+C:/RepoGit/Taller22023/2023/obj/Debug/net6.0/2023.csproj.AssemblyReference.cache
+C:/RepoGit/Taller22023/2023/obj/Debug/net6.0/2023.GeneratedMSBuildEditorConfig.editorconfig
+C:/RepoGit/Taller22023/2023/obj/Debug/net6.0/2023.AssemblyInfoInputs.cache
+C:/RepoGit/Taller22023/2023/obj/Debug/net6.0/2023.AssemblyInfo.cs
+C:/RepoGit/Taller22023/2023/obj/Debug/net6.0/2023.csproj.CoreCompileInputs.cache
+C:/RepoGit/Taller22023/2023/bin/Debug/net6.0/2023.exe
+C:/RepoGit/Taller22023/2023/bin/Debug/net6.0/2023.deps.json
+C:/RepoGit/Taller22023/2023/bin/Debug/net6.0/2023.runtimeconfig.json
+C:/RepoGit/Taller22023/2023/bin/Debug/net6.0/2023.dll
+C:/RepoGit/Taller22023/2023/bin/Debug/net6.0/2023.pdb
+C:/RepoGit/Taller22023/2023/obj/Debug/net6.0/2023.dll
+C:/RepoGit/Taller22023/2023/obj/Debug/net6.0/refint/2023.dll
+C:/RepoGit/Taller22023/2023/obj/Debug/net6.0/2023.pdb
+C:/RepoGit/Taller22023/2023/obj/Debug/net6.0/2023.genruntimeconfig.cache
+C:/RepoGit/Taller22023/2023/obj/Debug/net6.0/ref/2023.dll
+/Users/agus/work/Taller/repos/2023/Clase 1/bin/Debug/net6.0/2023
+/Users/agus/work/Taller/repos/2023/Clase 1/bin/Debug/net6.0/2023.deps.json
+/Users/agus/work/Taller/repos/2023/Clase 1/bin/Debug/net6.0/2023.runtimeconfig.json
+/Users/agus/work/Taller/repos/2023/Clase 1/bin/Debug/net6.0/2023.dll
+/Users/agus/work/Taller/repos/2023/Clase 1/bin/Debug/net6.0/2023.pdb
+/Users/agus/work/Taller/repos/2023/Clase 1/obj/Debug/net6.0/2023.csproj.AssemblyReference.cache
+/Users/agus/work/Taller/repos/2023/Clase 1/obj/Debug/net6.0/2023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agus/work/Taller/repos/2023/Clase 1/obj/Debug/net6.0/2023.AssemblyInfoInputs.cache
+/Users/agus/work/Taller/repos/2023/Clase 1/obj/Debug/net6.0/2023.AssemblyInfo.cs
+/Users/agus/work/Taller/repos/2023/Clase 1/obj/Debug/net6.0/2023.csproj.CoreCompileInputs.cache
+/Users/agus/work/Taller/repos/2023/Clase 1/obj/Debug/net6.0/2023.dll
+/Users/agus/work/Taller/repos/2023/Clase 1/obj/Debug/net6.0/refint/2023.dll
+/Users/agus/work/Taller/repos/2023/Clase 1/obj/Debug/net6.0/2023.pdb
+/Users/agus/work/Taller/repos/2023/Clase 1/obj/Debug/net6.0/2023.genruntimeconfig.cache
+/Users/agus/work/Taller/repos/2023/Clase 1/obj/Debug/net6.0/ref/2023.dll
