@@ -1,0 +1,90 @@
+C:\RepoGit\taller2\MVC\PruebaMVC\bin\Debug\net7.0\appsettings.Development.json
+C:\RepoGit\taller2\MVC\PruebaMVC\bin\Debug\net7.0\appsettings.json
+C:\RepoGit\taller2\MVC\PruebaMVC\bin\Debug\net7.0\PruebaMVC.staticwebassets.runtime.json
+C:\RepoGit\taller2\MVC\PruebaMVC\bin\Debug\net7.0\PruebaMVC.exe
+C:\RepoGit\taller2\MVC\PruebaMVC\bin\Debug\net7.0\PruebaMVC.deps.json
+C:\RepoGit\taller2\MVC\PruebaMVC\bin\Debug\net7.0\PruebaMVC.runtimeconfig.json
+C:\RepoGit\taller2\MVC\PruebaMVC\bin\Debug\net7.0\PruebaMVC.dll
+C:\RepoGit\taller2\MVC\PruebaMVC\bin\Debug\net7.0\PruebaMVC.pdb
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\PruebaMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\PruebaMVC.AssemblyInfoInputs.cache
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\PruebaMVC.AssemblyInfo.cs
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\PruebaMVC.csproj.CoreCompileInputs.cache
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\PruebaMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\PruebaMVC.RazorAssemblyInfo.cache
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\PruebaMVC.RazorAssemblyInfo.cs
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\staticwebassets\msbuild.PruebaMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.PruebaMVC.props
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PruebaMVC.props
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PruebaMVC.props
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\scopedcss\bundle\PruebaMVC.styles.css
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\scopedcss\projectbundle\PruebaMVC.bundle.scp.css
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\PruebaMVC.dll
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\refint\PruebaMVC.dll
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\PruebaMVC.pdb
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\PruebaMVC.genruntimeconfig.cache
+C:\RepoGit\taller2\MVC\PruebaMVC\obj\Debug\net7.0\ref\PruebaMVC.dll
+C:\Repositorio\PruebaMVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Repositorio\PruebaMVC\bin\Debug\net7.0\appsettings.json
+C:\Repositorio\PruebaMVC\bin\Debug\net7.0\PruebaMVC.staticwebassets.runtime.json
+C:\Repositorio\PruebaMVC\bin\Debug\net7.0\PruebaMVC.exe
+C:\Repositorio\PruebaMVC\bin\Debug\net7.0\PruebaMVC.deps.json
+C:\Repositorio\PruebaMVC\bin\Debug\net7.0\PruebaMVC.runtimeconfig.json
+C:\Repositorio\PruebaMVC\bin\Debug\net7.0\PruebaMVC.dll
+C:\Repositorio\PruebaMVC\bin\Debug\net7.0\PruebaMVC.pdb
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\PruebaMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\PruebaMVC.AssemblyInfoInputs.cache
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\PruebaMVC.AssemblyInfo.cs
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\PruebaMVC.csproj.CoreCompileInputs.cache
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\PruebaMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\PruebaMVC.RazorAssemblyInfo.cache
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\PruebaMVC.RazorAssemblyInfo.cs
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\staticwebassets\msbuild.PruebaMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.PruebaMVC.props
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PruebaMVC.props
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PruebaMVC.props
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\scopedcss\bundle\PruebaMVC.styles.css
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\scopedcss\projectbundle\PruebaMVC.bundle.scp.css
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\PruebaMVC.dll
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\refint\PruebaMVC.dll
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\PruebaMVC.pdb
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\PruebaMVC.genruntimeconfig.cache
+C:\Repositorio\PruebaMVC\obj\Debug\net7.0\ref\PruebaMVC.dll
+C:\Repositorio\taller 2\2023\MVC\bin\Debug\net7.0\appsettings.Development.json
+C:\Repositorio\taller 2\2023\MVC\bin\Debug\net7.0\appsettings.json
+C:\Repositorio\taller 2\2023\MVC\bin\Debug\net7.0\PruebaMVC.staticwebassets.runtime.json
+C:\Repositorio\taller 2\2023\MVC\bin\Debug\net7.0\PruebaMVC.exe
+C:\Repositorio\taller 2\2023\MVC\bin\Debug\net7.0\PruebaMVC.deps.json
+C:\Repositorio\taller 2\2023\MVC\bin\Debug\net7.0\PruebaMVC.runtimeconfig.json
+C:\Repositorio\taller 2\2023\MVC\bin\Debug\net7.0\PruebaMVC.dll
+C:\Repositorio\taller 2\2023\MVC\bin\Debug\net7.0\PruebaMVC.pdb
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.AssemblyInfoInputs.cache
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.AssemblyInfo.cs
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.csproj.CoreCompileInputs.cache
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.RazorAssemblyInfo.cache
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.RazorAssemblyInfo.cs
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\staticwebassets\msbuild.PruebaMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\staticwebassets\msbuild.build.PruebaMVC.props
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PruebaMVC.props
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PruebaMVC.props
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\staticwebassets.build.json
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\staticwebassets.development.json
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\scopedcss\bundle\PruebaMVC.styles.css
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\scopedcss\projectbundle\PruebaMVC.bundle.scp.css
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.dll
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\refint\PruebaMVC.dll
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.pdb
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.genruntimeconfig.cache
+C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\ref\PruebaMVC.dll
