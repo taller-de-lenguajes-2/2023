@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorio\\taller 2\\2023\\MVC\\PruebaMVC.csproj": {}
+    "/Users/agus/ejemplos_clase/2023/MVC/PruebaMVC.csproj": {}
   },
   "projects": {
-    "C:\\Repositorio\\taller 2\\2023\\MVC\\PruebaMVC.csproj": {
+    "/Users/agus/ejemplos_clase/2023/MVC/PruebaMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorio\\taller 2\\2023\\MVC\\PruebaMVC.csproj",
+        "projectUniqueName": "/Users/agus/ejemplos_clase/2023/MVC/PruebaMVC.csproj",
         "projectName": "PruebaMVC",
-        "projectPath": "C:\\Repositorio\\taller 2\\2023\\MVC\\PruebaMVC.csproj",
-        "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorio\\taller 2\\2023\\MVC\\obj\\",
+        "projectPath": "/Users/agus/ejemplos_clase/2023/MVC/PruebaMVC.csproj",
+        "packagesPath": "/Users/agus/.nuget/packages/",
+        "outputPath": "/Users/agus/ejemplos_clase/2023/MVC/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/agus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

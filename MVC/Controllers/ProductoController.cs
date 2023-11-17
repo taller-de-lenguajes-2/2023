@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using PruebaMVC.Models;
+using PruebaMVC.ViewModels;
 
 namespace PruebaMVC.Controllers;
 
@@ -16,7 +17,8 @@ public class ProductoController : Controller
 
     public IActionResult Index()
     {
-        return View(productos);
+        var indexProductoViewModel = new IndexProductoViewModel(productos);
+        return View(indexProductoViewModel);
     }
 
     [HttpGet]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lh03Ew1vikS8/58fcKH4X0dgQsQICou7PTdunDJkFiW2tVOIz3CPfsYlExpVPjWTR/+hcYE4WpLOKO/yUPOSqA==",
+  "dgSpecHash": "bBrlRDC8hd8fbElD+kvCkqPsIzhskAc1OATKvQuBRmOUXhlca9U6+Xhd9ATjZrYK37nLgQWtL5uitF1zaZfiaw==",
   "success": true,
-  "projectFilePath": "C:\\Repositorio\\taller 2\\2023\\MVC\\PruebaMVC.csproj",
+  "projectFilePath": "/Users/agus/ejemplos_clase/2023/MVC/PruebaMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

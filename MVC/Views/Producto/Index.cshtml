@@ -1,8 +1,8 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-
-@model List<Producto>
+@using PruebaMVC.ViewModels
+@model IndexProductoViewModel
 
 <h2>Product List</h2>
 
@@ -16,7 +16,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var producto in Model)
+        @foreach (var producto in Model.ProductoViewModels)
         {
             <tr>
                 <td hidden>@producto.Id</td>
