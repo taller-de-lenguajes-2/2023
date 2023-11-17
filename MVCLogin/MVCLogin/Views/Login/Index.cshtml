@@ -1,0 +1,20 @@
+
+@model MVC.ViewModels.LoginViewModel
+
+<form asp-controller="Login" asp-action="Login" method="post">
+    <div class="form-group">
+        <label asp-for="@Model.Nombre"></label>
+        <input asp-for="@Model.Nombre" class="form-control" />
+        <span asp-validation-for="@Model.Nombre" class="text-danger"></span>    
+    </div>
+
+    <div class="form-group">
+        <label asp-for="@Model.Contrasenia"></label>
+        <input asp-for="@Model.Contrasenia" class="form-control" />
+        <span asp-validation-for="@Model.Contrasenia" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
+
+@section Scripts { <partial name="_ValidationScriptsPartial" /> }
+
