@@ -12,12 +12,11 @@ namespace EjemploN2
             FileStream fs = null;
             try
             {
+               
                 fs = new FileStream(nombreDeArchivo, FileMode.Open); // busco un archivo
                 var sr = new StreamReader(fs); // Abro el archivo                
                 string line = sr.ReadLine(); // Leo una linea 
                 Console.WriteLine(line); // muestro la linea por pantalla
-                if (fs != null)
-                    fs.Close();
             }
             catch (Exception e)
             {             
@@ -25,7 +24,8 @@ namespace EjemploN2
             }
             finally
             {
-               
+                if (fs != null)
+                    fs.Close();
             }
 
         }

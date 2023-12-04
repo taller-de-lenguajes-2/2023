@@ -15,7 +15,7 @@ namespace EjemplosConcurso
                 var sr = new StreamReader(fs); // Abro el archivo                
                 string line = sr.ReadLine(); // Leo una linea 
                 Console.WriteLine(line); // muestro la linea por pantalla
-            }            
+            }         
             catch (DirectoryNotFoundException e)
             {
                 Console.WriteLine($"[Directorio no encontrado] {e}"); // Información para el usuario                
@@ -25,9 +25,10 @@ namespace EjemplosConcurso
                 Console.WriteLine($"[Archivo no encontrado] {e}"); // Información para el usuario             
             }
             catch (Exception e)
-            {
+            {             
                 Console.WriteLine($"Hubo un problema al intentar abrir el archivo {e}"); // Información para el usuario               
             }
+
 
             finally
             {

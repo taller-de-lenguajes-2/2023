@@ -12,7 +12,7 @@ namespace EjemploN5
             FileStream fs = null;
             try
             {
-                fs = NewMethod(nombreDeArchivo);
+                fs = AbrirArchivo(nombreDeArchivo);
             }
             catch (DirectoryNotFoundException e)
             {                
@@ -20,7 +20,7 @@ namespace EjemploN5
             }
             catch (ConfigFileDontFoundException e)
             {
-                Console.WriteLine($"[Archivo de configuración no fué encontrado]"); // Información para el usuario                                        
+                Console.WriteLine($"{e.Message}"); // Información para el usuario                                        
             }
             finally
             {
@@ -30,7 +30,7 @@ namespace EjemploN5
 
         }
 
-        private static FileStream NewMethod(string nombreDeArchivo)
+        private static FileStream AbrirArchivo(string nombreDeArchivo)
         {
             try
             {
@@ -47,8 +47,8 @@ namespace EjemploN5
             }
             catch (FileNotFoundException e)
             {
-                Console.WriteLine($"[Archivo no encontrado] {e}"); // Información para el usuario
-                throw new ConfigFileDontFoundException($"[Archivo no encontrado] {e}", e);
+                //Console.WriteLine($"[Archivo no encontrado] {e}"); // Información para el usuario
+                throw new ConfigFileDontFoundException($"[Archivo de configuración no encontrado] {e}", e);
             }
         }
     }

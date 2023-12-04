@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 namespace EjemploN4
 {
@@ -30,6 +31,7 @@ namespace EjemploN4
         
         static int Dividir(int Dividendo,int Divisor)
         {
+            //if (Divisor == 0) throw new Exception("Divisor es cero.");
             return Dividendo / Divisor;                      
         }
     }

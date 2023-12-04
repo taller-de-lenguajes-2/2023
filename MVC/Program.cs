@@ -2,7 +2,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+string CadenaDeConexion = builder.Configuration.GetConnectionString("myDb1")!.ToString();
+builder.Services.AddSingleton<string>(CadenaDeConexion); 
+ 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

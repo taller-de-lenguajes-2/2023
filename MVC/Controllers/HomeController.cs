@@ -1,4 +1,4 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using PruebaMVC.Models;
 
@@ -7,14 +7,16 @@ namespace PruebaMVC.Controllers;
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger,Repo repo)
     {
+        var _repo = repo; 
         _logger = logger;
     }
 
     public IActionResult Index()
     {
-        return View();
+        _logger.LogCritical("hola mundo");
+        return BadRequest();
     }
 
     public IActionResult Privacy()
