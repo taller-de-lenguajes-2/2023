@@ -75,7 +75,7 @@ namespace MVC.Controllers
 
         private bool isAdmin()
         {
-            if (HttpContext.Session != null && HttpContext.Session.GetString("NivelDeAcceso") == "admin") 
+            if (HttpContext.Session != null && HttpContext.Session.GetString("NivelAcceso") == "admin") 
                 return true;
                 
             return false;
