@@ -54,7 +54,6 @@ public class LoginController : Controller
     private void logearUsuario(Usuario user)
     {
         HttpContext.Session.SetString("Usuario", user.Nombre);
-        HttpContext.Session.SetString("NivelDeAcceso", user.Contrasenia);
         HttpContext.Session.SetString("NivelAcceso", user.NivelDeAcceso.ToString());
     }
 }
