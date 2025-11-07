@@ -1,0 +1,33 @@
+@model ViewModels.ProductoViewModel
+
+@{
+    ViewData["Title"] = "Eliminar Producto";
+}
+
+<h1>Eliminar</h1>
+
+<h3>¿Está seguro de que quiere eliminar este producto?</h3>
+<div>
+    <h4>Producto</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class = "col-sm-4">
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+        <a asp-action="Index">Volver a la Lista</a>
+    </form>
+</div>

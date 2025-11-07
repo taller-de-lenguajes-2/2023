@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lh03Ew1vikS8/58fcKH4X0dgQsQICou7PTdunDJkFiW2tVOIz3CPfsYlExpVPjWTR/+hcYE4WpLOKO/yUPOSqA==",
+  "dgSpecHash": "6LX5bhwYs10=",
   "success": true,
-  "projectFilePath": "C:\\Repositorio\\taller 2\\2023\\MVC\\PruebaMVC.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\RepoGit\\2023\\MVC\\PruebaMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javie\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\javie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\javie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\javie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

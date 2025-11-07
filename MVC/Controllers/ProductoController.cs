@@ -23,8 +23,14 @@ public class ProductoController : Controller
 
     [HttpGet]
     public IActionResult CrearProducto()
-    {   
+    {
         return View(new Producto());
+    }
+    
+    [HttpGet]
+    public IActionResult CrearProducto()
+    {   
+        return View("Index");
     }
 
  

@@ -149,3 +149,14 @@ C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\refint\PruebaMVC.dll
 C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.pdb
 C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\PruebaMVC.genruntimeconfig.cache
 C:\Repositorio\taller 2\2023\MVC\obj\Debug\net7.0\ref\PruebaMVC.dll
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\PruebaMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\PruebaMVC.AssemblyInfoInputs.cache
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\PruebaMVC.AssemblyInfo.cs
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\PruebaMVC.csproj.CoreCompileInputs.cache
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\PruebaMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\PruebaMVC.RazorAssemblyInfo.cache
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\PruebaMVC.RazorAssemblyInfo.cs
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\PruebaMVC.sourcelink.json
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\PruebaMVC.dll
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\refint\PruebaMVC.dll
+C:\RepoGit\2023\MVC\obj\Debug\net7.0\PruebaMVC.pdb

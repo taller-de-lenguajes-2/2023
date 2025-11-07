@@ -1,0 +1,42 @@
+@model ViewModels.ProductoListViewModel
+
+@{
+    ViewData["Title"] = "Lista de Productos";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-info" >Crear Nuevo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Productos.First().Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Productos.First().Precio)
+            </th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody  >
+        @foreach (var item in Model.Productos)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Precio)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
